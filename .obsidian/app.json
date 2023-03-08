@@ -1,0 +1,24 @@
+{
+  "attachmentFolderPath": "attachments",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "lineWrap": true,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current",
+  "newFileFolderPath": "New",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
+}
