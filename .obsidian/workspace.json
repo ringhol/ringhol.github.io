@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/MyBatis-Plus/2.多数据操作&代码生成器/5.快速开发.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/MyBatis-Plus/2.多数据操作&代码生成器/5.快速开发.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/MyBatis-Plus/2.多数据操作&代码生成器/5.快速开发.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/MyBatis-Plus/2.多数据操作&代码生成器/5.快速开发.md"
+                "file": "README.md"
               }
             }
           },
@@ -144,9 +144,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e7c4cf24401c949f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -165,6 +173,7 @@
   },
   "active": "d141b6f77fedb11d",
   "lastOpenFiles": [
+    "java/MyBatis-Plus/2.多数据操作&代码生成器/5.快速开发.md",
     "README.md",
     "java/springMVC/SSM整合/3.表现层与前端数据传输协议.md",
     "java/springMVC/SSM整合/2.整合配置.md",
@@ -190,7 +199,6 @@
     "java/SpringBoot/2.配置文件&多环境开发/2.yaml格式.md",
     "java/SpringBoot/2.配置文件&多环境开发/1.配置文件格式.md",
     "java/SpringBoot/1.springboot工程/4.springboot起步依赖.md",
-    "java/SpringBoot/1.springboot工程/3.SpringBoot项目快速启动.md",
     "设计模式/面向对象的设计原则.html",
     "未命名.canvas"
   ]
