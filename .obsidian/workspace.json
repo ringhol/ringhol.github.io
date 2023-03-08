@@ -184,8 +184,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "86514341d0351c6e",
+  "active": "e7c4cf24401c949f",
   "lastOpenFiles": [
+    "_sidebar.md",
     "README.md",
     "java/前后端分离开发/1.前后端分离介绍.md",
     "_siderbar.md",
@@ -211,7 +212,6 @@
     "java/SpringBoot/2.配置文件&多环境开发/5.多环境开发的兼容问题.md",
     "java/SpringBoot/2.配置文件&多环境开发/4.多环境开发配置.md",
     "java/SpringBoot/2.配置文件&多环境开发/3.yaml数据的读取方式.md",
-    "java/SpringBoot/2.配置文件&多环境开发/2.yaml格式.md",
     "设计模式/面向对象的设计原则.html",
     "未命名.canvas"
   ]
