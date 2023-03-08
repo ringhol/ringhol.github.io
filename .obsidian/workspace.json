@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/前后端分离开发/4.Swagger使用方式.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/前后端分离开发/4.Swagger使用方式.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/前后端分离开发/4.Swagger使用方式.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/前后端分离开发/4.Swagger使用方式.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -184,8 +184,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e7c4cf24401c949f",
+  "active": "86514341d0351c6e",
   "lastOpenFiles": [
+    "java/前后端分离开发/4.Swagger使用方式.md",
     "_sidebar.md",
     "README.md",
     "java/前后端分离开发/1.前后端分离介绍.md",
@@ -211,7 +212,6 @@
     "java/SpringBoot/2.配置文件&多环境开发/6.配置文件分类.md",
     "java/SpringBoot/2.配置文件&多环境开发/5.多环境开发的兼容问题.md",
     "java/SpringBoot/2.配置文件&多环境开发/4.多环境开发配置.md",
-    "java/SpringBoot/2.配置文件&多环境开发/3.yaml数据的读取方式.md",
     "设计模式/面向对象的设计原则.html",
     "未命名.canvas"
   ]
