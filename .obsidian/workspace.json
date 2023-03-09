@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ebf0e9565526da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GO/gRPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "GO/gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "GO/gRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "GO/gRPC.md"
               }
             }
           },
@@ -184,10 +196,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "86514341d0351c6e",
+  "active": "5ebf0e9565526da7",
   "lastOpenFiles": [
-    "README.md",
+    "gRPC/未命名.md",
+    "GO/gRPC.md",
     "_sidebar.md",
+    "gRPC",
+    "README.md",
     "java/前后端分离开发/4.Swagger使用方式.md",
     "java/前后端分离开发/1.前后端分离介绍.md",
     "_siderbar.md",
@@ -210,8 +225,6 @@
     "java/SpringCloud/1.微服务&服务拆分/1.认识微服务.md",
     "java/SpringBoot/3.SpringBoot整合/1.整合MyBatis.md",
     "java/SpringBoot/2.配置文件&多环境开发/6.配置文件分类.md",
-    "java/SpringBoot/2.配置文件&多环境开发/5.多环境开发的兼容问题.md",
-    "java/SpringBoot/2.配置文件&多环境开发/4.多环境开发配置.md",
     "设计模式/面向对象的设计原则.html",
     "未命名.canvas"
   ]
