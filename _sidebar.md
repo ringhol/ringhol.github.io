@@ -1,4 +1,5 @@
 * [首页](/)
  * [java](java/README.md)
+ * [MySql](MySQL/README.md)
 * [Nginx](Nginx/README.md)
 * [Redis](redis/README.md)

@@ -20,5 +20,5 @@
   "newFileLocation": "current",
   "newFileFolderPath": "New",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }

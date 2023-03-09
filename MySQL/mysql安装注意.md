@@ -1,7 +1,4 @@
----
-dg-home: false
-dg-publish: true
----
+
 ## Centos7安装mysql
 ```bash
 wget http://dev.mysql.com/get/mysql57-community-release-el7-8.noarch.rpm
