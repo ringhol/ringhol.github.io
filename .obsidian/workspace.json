@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -210,9 +210,9 @@
   },
   "active": "0acdc9139e286426",
   "lastOpenFiles": [
+    "java/README.md",
     "_sidebar.md",
     "README.md",
-    "java/README.md",
     "redis/README.md",
     "MySQL/README.md",
     "MySQL/mysql读写分离.md",

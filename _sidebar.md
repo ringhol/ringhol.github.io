@@ -1,5 +1,1 @@
-* [主页](README.md)
-* [java](java/README.md)
-* [MySql](MySQL/README.md)
-* [Nginx](Nginx/README.md)
-* [Redis](redis/README.md)
+* [主页](/)
