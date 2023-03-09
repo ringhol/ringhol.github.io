@@ -210,9 +210,9 @@
   },
   "active": "0acdc9139e286426",
   "lastOpenFiles": [
-    "java/README.md",
-    "_sidebar.md",
     "README.md",
+    "_sidebar.md",
+    "java/README.md",
     "redis/README.md",
     "MySQL/README.md",
     "MySQL/mysql读写分离.md",
