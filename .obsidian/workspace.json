@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/gRPC.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0acdc9139e286426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/gRPC.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/gRPC.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/gRPC.md"
+                "file": "README.md"
               }
             }
           },
@@ -196,15 +208,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5ebf0e9565526da7",
+  "active": "0acdc9139e286426",
   "lastOpenFiles": [
-    "gRPC/未命名.md",
+    "java/README.md",
+    "java/前后端分离开发/1.前后端分离介绍.md",
+    "java/软件开发整体介绍/3.软件环境.md",
+    "README.md",
     "GO/gRPC.md",
+    "gRPC/未命名.md",
     "_sidebar.md",
     "gRPC",
-    "README.md",
     "java/前后端分离开发/4.Swagger使用方式.md",
-    "java/前后端分离开发/1.前后端分离介绍.md",
     "_siderbar.md",
     "java/MyBatis-Plus/2.多数据操作&代码生成器/5.快速开发.md",
     "java/springMVC/SSM整合/3.表现层与前端数据传输协议.md",
@@ -223,8 +237,6 @@
     "java/SpringCloud/2.Eureka&Ribbon/1.提供者与消费者.md",
     "java/SpringCloud/1.微服务&服务拆分/2.服务拆分及远程调用.md",
     "java/SpringCloud/1.微服务&服务拆分/1.认识微服务.md",
-    "java/SpringBoot/3.SpringBoot整合/1.整合MyBatis.md",
-    "java/SpringBoot/2.配置文件&多环境开发/6.配置文件分类.md",
     "设计模式/面向对象的设计原则.html",
     "未命名.canvas"
   ]
