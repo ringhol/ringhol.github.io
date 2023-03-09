@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/操作系统的概念.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/操作系统的概念.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/操作系统的概念.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/操作系统的概念.md"
+                "file": "README.md"
               }
             }
           },
@@ -210,8 +210,10 @@
   },
   "active": "0acdc9139e286426",
   "lastOpenFiles": [
-    "GO/gRPC.md",
+    "_sidebar.md",
     "README.md",
+    "操作系统/操作系统的概念.md",
+    "GO/gRPC.md",
     "redis/README.md",
     "Nginx/README.md",
     "java/README.md",
@@ -223,7 +225,6 @@
     "java/前后端分离开发/1.前后端分离介绍.md",
     "java/软件开发整体介绍/3.软件环境.md",
     "gRPC/未命名.md",
-    "_sidebar.md",
     "gRPC",
     "java/前后端分离开发/4.Swagger使用方式.md",
     "_siderbar.md",
@@ -236,7 +237,6 @@
     "java/springMVC/RESTful/1.REST风格简介.md",
     "java/springMVC/异常处理/1.异常处理器.md",
     "java/springMVC/请求方式&参数传递/5.请求与响应--响应.md",
-    "java/springMVC/请求方式&参数传递/4.请求与响应--请求.md",
     "设计模式/面向对象的设计原则.html",
     "未命名.canvas"
   ]

@@ -1,9 +1,4 @@
 > # 简介
 >
-> 分享自己的一些笔记
-> ## java
-> [java](java/README.md)
-> ## nginx
-> [Nginx](Nginx/README.md)
-> ## Redis
-> [Redis](redis/README.md)
+> 记录自己笔记
+>还有很多地方不完善，会慢慢更新
