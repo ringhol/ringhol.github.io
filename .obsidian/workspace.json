@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "_sidebar.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -187,31 +187,32 @@
   },
   "active": "a1444f13a56efc67",
   "lastOpenFiles": [
-    "Home.md",
-    "README.md",
+    "Gin/Gin.md",
     "_sidebar.md",
-    "java/README.md",
+    "数据结构与算法/1.排序算法/1.排序算法.md",
+    "GO/框架/框架.md",
+    "GO/语法/2.基本数据类型.md",
+    "GO/语法/1.环境配置.md",
+    "GO/语法/3.变量和常量.md",
+    "GO/语法/语法.md",
+    "docker/docker.md",
+    "docker/1.docker简介.md",
+    "docker/2.docker常用命令.md",
     "java/java.md",
+    "redis/redis.md",
+    "README.md",
+    "Home.md",
+    "java/README.md",
     "java/SpringBoot/SpringBoot.md",
     "java/小知识/小知识.md",
-    "redis/redis.md",
-    "Gin/Gin.md",
     "GO/框架/gorm/gorm.md",
-    "GO/框架/框架.md",
-    "GO/语法/语法.md",
     "java/前后端分离开发/前后端分离开发.md",
     "java/前后端分离开发/4.Swagger使用方式.md",
-    "docker/docker.md",
-    "docker/2.docker常用命令.md",
-    "docker/1.docker简介.md",
     "Nginx/4.nginx配置文件.md",
     "Nginx/3.nginx常用命令.md",
     "Nginx/2.nginx目录结构.md",
     "Nginx/1.nginx的安装.md",
     "redis/5.使用redis作为缓存产品.md",
-    "redis/4.Spring Cache.md",
-    "redis/3.java操作redis.md",
-    "redis/2.redis常用命令.md",
     "template",
     "docker",
     "GO/云原生",
