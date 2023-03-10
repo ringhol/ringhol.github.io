@@ -96,6 +96,6 @@
 
 
 ```dataview
-table file.name AS "章节",标题,创建时间,修改时间
+table 标题,创建时间,修改时间
 from "java/前后端分离开发"
 ```
