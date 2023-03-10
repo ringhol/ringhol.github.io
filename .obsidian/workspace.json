@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "java/小知识/小知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1444f13a56efc67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/README.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "java/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "java/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "java/README.md"
               }
             }
           },
@@ -172,13 +185,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d679dac2a178a4c",
+  "active": "a1444f13a56efc67",
   "lastOpenFiles": [
-    "README.md",
-    "Home.md",
-    "README.md",
-    "docker/1.docker简介.md",
+    "java/java.md",
+    "java/README.md",
+    "java/SpringBoot/SpringBoot.md",
+    "java/小知识/小知识.md",
     "_sidebar.md",
+    "Home.md",
+    "redis/redis.md",
+    "Gin/Gin.md",
+    "GO/框架/gorm/gorm.md",
+    "GO/框架/框架.md",
+    "GO/语法/语法.md",
+    "java/前后端分离开发/前后端分离开发.md",
+    "java/前后端分离开发/4.Swagger使用方式.md",
+    "docker/docker.md",
+    "docker/2.docker常用命令.md",
+    "docker/1.docker简介.md",
+    "README.md",
+    "README.md",
     "Nginx/4.nginx配置文件.md",
     "Nginx/3.nginx常用命令.md",
     "Nginx/2.nginx目录结构.md",
@@ -187,19 +213,6 @@
     "redis/4.Spring Cache.md",
     "redis/3.java操作redis.md",
     "redis/2.redis常用命令.md",
-    "redis/1.redis数据类型.md",
-    "java/README.md",
-    "java/springMVC/SSM整合/3.表现层与前端数据传输协议.md",
-    "java/springMVC/SSM整合/2.整合配置.md",
-    "java/springMVC/SSM整合/1.SSM整合流程.md",
-    "java/springMVC/RESTful/3.RESTful快速开发.md",
-    "java/springMVC/RESTful/2.RESTful入门案例.md",
-    "java/springMVC/RESTful/1.REST风格简介.md",
-    "java/springMVC/异常处理/1.异常处理器.md",
-    "java/springMVC/请求方式&参数传递/5.请求与响应--响应.md",
-    "java/springMVC/请求方式&参数传递/4.请求与响应--请求.md",
-    "java/springMVC/请求方式&参数传递/3.bean加载控制.md",
-    "java/springMVC/请求方式&参数传递/2.SpringMVC入门案例工作流程解析.md",
     "template",
     "docker",
     "GO/云原生",

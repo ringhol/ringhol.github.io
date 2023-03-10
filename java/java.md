@@ -1,4 +1,12 @@
-**[[前后端分离开发]]**
+# java Overview
+ 
+```ccard
+type: folder_brief_live
+```
+
+
+%% Begin Waypoint %%
+- **[[前后端分离开发]]**
 	- [[1.前后端分离介绍]]
 	- [[2.YApi介绍]]
 	- [[3.Swagger介绍]]
@@ -76,3 +84,5 @@
 		- [[1.SSM整合流程]]
 		- [[2.整合配置]]
 		- [[3.表现层与前端数据传输协议]]
+
+%% End Waypoint %%

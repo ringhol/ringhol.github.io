@@ -6,5 +6,7 @@
   "dataview",
   "templater-obsidian",
   "obsidian-banners",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "folder-note-plugin",
+  "waypoint"
 ]
