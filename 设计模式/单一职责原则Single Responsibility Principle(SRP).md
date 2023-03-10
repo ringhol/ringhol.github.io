@@ -1,4 +1,11 @@
 
+---
+标题: 单一职责原则Single Responsibility Principle(SRP)
+创建时间: 2023-03-08 11:13
+修改时间: 2023-03-08 11:26
+tags: 
+---
+
 ![Pasted image 20220810212541](../attachments/Pasted%20image%2020220810212541.png)
 现在有一个Telephone类作为本节的例子
 ![Pasted image 20220810215504](../attachments/Pasted%20image%2020220810215504.png)
