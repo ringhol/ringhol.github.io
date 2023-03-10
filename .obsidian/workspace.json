@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "README.md"
               }
             }
           },
@@ -247,8 +247,9 @@
   },
   "active": "4d679dac2a178a4c",
   "lastOpenFiles": [
-    "README.md",
     "Home.md",
+    "README.md",
+    "_sidebar.md",
     "Nginx/4.nginx配置文件.md",
     "Nginx/3.nginx常用命令.md",
     "Nginx/2.nginx目录结构.md",
@@ -258,7 +259,6 @@
     "redis/3.java操作redis.md",
     "redis/2.redis常用命令.md",
     "redis/1.redis数据类型.md",
-    "_sidebar.md",
     "java/README.md",
     "java/springMVC/SSM整合/3.表现层与前端数据传输协议.md",
     "java/springMVC/SSM整合/2.整合配置.md",
