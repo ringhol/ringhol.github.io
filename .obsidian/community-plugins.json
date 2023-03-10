@@ -1,5 +1,8 @@
 [
   "calendar",
   "obsidian-pandoc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-emoji-toolbar",
+  "dataview",
+  "templater-obsidian"
 ]
