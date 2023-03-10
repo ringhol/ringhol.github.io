@@ -34,7 +34,9 @@
       // 最大支持渲染的标题层级
       maxLevel: 5,
       // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
-      // subMaxLevel: 2,
+      subMaxLevel: 2,
+
+      sidebarDisplayLevel: 1,//侧栏展示的层级
       // 小屏设备下合并导航栏到侧边栏
       mergeNavbar: true,
       auto2top: true,
@@ -68,6 +70,8 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
   <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <!-- 侧栏折叠 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 
 </html>
