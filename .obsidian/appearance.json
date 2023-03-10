@@ -3,9 +3,9 @@
   "theme": "moonstone",
   "translucency": true,
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "baseFontSize": 22,
+  "baseFontSize": 20,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": true
 }
