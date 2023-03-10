@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d141b6f77fedb11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86514341d0351c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_sidebar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ebf0e9565526da7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0acdc9139e286426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_sidebar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aa9318cdc1af9dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GO/云原生/golang云原生部署.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "392a0ac1feba4102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4d679dac2a178a4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/1.docker简介.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/1.docker简介.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/1.docker简介.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/1.docker简介.md"
+                "file": "README.md"
               }
             }
           },
@@ -245,9 +172,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d679dac2a178a4c",
+  "active": "787bfaa304e71400",
   "lastOpenFiles": [
+    "README.obsidian.md",
     "README.md",
+    "docker/1.docker简介.md",
     "Home.md",
     "_sidebar.md",
     "Nginx/4.nginx配置文件.md",
@@ -271,8 +200,6 @@
     "java/springMVC/请求方式&参数传递/4.请求与响应--请求.md",
     "java/springMVC/请求方式&参数传递/3.bean加载控制.md",
     "java/springMVC/请求方式&参数传递/2.SpringMVC入门案例工作流程解析.md",
-    "java/springMVC/请求方式&参数传递/1.SpringMVC简介.md",
-    "java/SpringCloud/2.Eureka&Ribbon/2.Eureka注册中心.md",
     "template",
     "docker",
     "GO/云原生",
