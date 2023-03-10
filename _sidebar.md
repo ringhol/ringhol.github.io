@@ -112,4 +112,4 @@
 		- [gRPC](GO/框架/gRPC/gRPC.md)
 - 数据结构与算法
 	- [1.排序算法](数据结构与算法/排序算法/1.排序算法.md)
-- [设计模式]([semtor/designPattern: 设计模式学习笔记 (github.com)](https://github.com/semtor/designPattern))
+- [设计模式](https://github.com/semtor/designPattern)
