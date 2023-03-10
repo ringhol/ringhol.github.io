@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "Home.md"
               }
             }
           },
@@ -247,7 +247,18 @@
   },
   "active": "4d679dac2a178a4c",
   "lastOpenFiles": [
+    "README.md",
     "Home.md",
+    "Nginx/4.nginx配置文件.md",
+    "Nginx/3.nginx常用命令.md",
+    "Nginx/2.nginx目录结构.md",
+    "Nginx/1.nginx的安装.md",
+    "redis/5.使用redis作为缓存产品.md",
+    "redis/4.Spring Cache.md",
+    "redis/3.java操作redis.md",
+    "redis/2.redis常用命令.md",
+    "redis/1.redis数据类型.md",
+    "_sidebar.md",
     "java/README.md",
     "java/springMVC/SSM整合/3.表现层与前端数据传输协议.md",
     "java/springMVC/SSM整合/2.整合配置.md",
@@ -262,17 +273,6 @@
     "java/springMVC/请求方式&参数传递/2.SpringMVC入门案例工作流程解析.md",
     "java/springMVC/请求方式&参数传递/1.SpringMVC简介.md",
     "java/SpringCloud/2.Eureka&Ribbon/2.Eureka注册中心.md",
-    "java/SpringCloud/2.Eureka&Ribbon/1.提供者与消费者.md",
-    "java/SpringCloud/1.微服务&服务拆分/2.服务拆分及远程调用.md",
-    "java/SpringCloud/1.微服务&服务拆分/1.认识微服务.md",
-    "java/SpringBoot/3.SpringBoot整合/1.整合MyBatis.md",
-    "java/SpringBoot/2.配置文件&多环境开发/6.配置文件分类.md",
-    "java/SpringBoot/2.配置文件&多环境开发/5.多环境开发的兼容问题.md",
-    "java/SpringBoot/2.配置文件&多环境开发/4.多环境开发配置.md",
-    "java/SpringBoot/2.配置文件&多环境开发/3.yaml数据的读取方式.md",
-    "java/SpringBoot/2.配置文件&多环境开发/2.yaml格式.md",
-    "java/SpringBoot/2.配置文件&多环境开发/1.配置文件格式.md",
-    "java/SpringBoot/1.springboot工程/4.springboot起步依赖.md",
     "template",
     "docker",
     "GO/云原生",
