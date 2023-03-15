@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "1b87605cf7b3fea8",
   "lastOpenFiles": [
-    "_sidebar.md",
     "数据结构与算法/2.排序算法/2.排序算法.md",
+    "_sidebar.md",
     "redis/redis.md",
     "MySQL/mysql安装注意.md",
     "MySQL/读写分离案例.md",
