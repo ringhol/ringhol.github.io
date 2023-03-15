@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "6fb026ea53283da0",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -175,21 +174,26 @@
   },
   "active": "1b87605cf7b3fea8",
   "lastOpenFiles": [
+    "数据结构与算法/2.排序算法/2.排序算法.md",
+    "_sidebar.md",
+    "redis/redis.md",
+    "MySQL/mysql安装注意.md",
+    "MySQL/读写分离案例.md",
+    "java/java.md",
+    "Gin/Gin.md",
+    "docker/docker.md",
     "数据结构与算法/2.排序算法/src/quickSort.go~",
     "数据结构与算法/2.排序算法/src/4913",
     "数据结构与算法/2.排序算法/src/quickSort.go",
     "未命名.canvas",
     "未命名 1.canvas",
-    "数据结构与算法/2.排序算法/2.排序算法.md",
     "数据结构与算法/2.排序算法/src/mergeSort.go~",
     "信号与系统/1.2常见信号及信号运算.md",
     "信号与系统/1.1信号的描述与分类.md",
     "数据结构与算法/1.时间复杂度.md",
     "数据结构与算法/未命名",
-    "redis/redis.md",
     "redis/README.md",
     "README.md",
-    "_sidebar.md",
     "数据结构与算法/排序算法/1.排序算法.md",
     "java/小知识/小知识.md",
     "数据结构与算法/排序算法",
@@ -198,20 +202,15 @@
     "redis/2.redis常用命令.md",
     "redis/5.使用redis作为缓存产品.md",
     "redis/4.Spring Cache.md",
-    "Gin/Gin.md",
     "GO/框架/框架.md",
     "GO/语法/2.基本数据类型.md",
     "GO/语法/1.环境配置.md",
     "GO/语法/3.变量和常量.md",
     "GO/语法/语法.md",
-    "docker/docker.md",
     "docker/1.docker简介.md",
-    "docker/2.docker常用命令.md",
-    "java/java.md",
     "template",
     "docker",
     "GO/云原生",
-    "gRPC",
-    "设计模式/面向对象的设计原则.html"
+    "gRPC"
   ]
 }
