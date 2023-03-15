@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/4.nginx配置文件.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "6fb026ea53283da0",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/4.nginx配置文件.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/4.nginx配置文件.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/4.nginx配置文件.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -175,6 +174,8 @@
   },
   "active": "1b87605cf7b3fea8",
   "lastOpenFiles": [
+    "Nginx/README.md",
+    "Nginx/4.nginx配置文件.md",
     "_sidebar.md",
     "数据结构与算法/2.排序算法/2.排序算法.md",
     "redis/redis.md",
@@ -207,8 +208,6 @@
     "GO/语法/2.基本数据类型.md",
     "GO/语法/1.环境配置.md",
     "GO/语法/3.变量和常量.md",
-    "GO/语法/语法.md",
-    "docker/1.docker简介.md",
     "template",
     "docker",
     "GO/云原生",
