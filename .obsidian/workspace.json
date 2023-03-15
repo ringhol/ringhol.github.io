@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/4.nginx配置文件.md",
-                "mode": "source",
+                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
+    "width": 245.5,
     "collapsed": true
   },
   "right": {
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/4.nginx配置文件.md",
+                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/4.nginx配置文件.md",
+                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/4.nginx配置文件.md"
+                "file": "数据结构与算法/2.排序算法/2.排序算法.md"
               }
             }
           },
@@ -175,14 +175,14 @@
   },
   "active": "b1fe2856bad7a2ef",
   "lastOpenFiles": [
-    "数据结构与算法/2.排序算法/2.排序算法.md",
     "数据结构与算法/2.排序算法/src/heapSort.go~",
     "数据结构与算法/2.排序算法/src/4913",
+    "Nginx/4.nginx配置文件.md",
+    "数据结构与算法/2.排序算法/2.排序算法.md",
     "数据结构与算法/2.排序算法/src/heapSort.go",
     "java/java.md",
     "Nginx/2.nginx目录结构.md",
     "Nginx/README.md",
-    "Nginx/4.nginx配置文件.md",
     "Nginx/1.nginx的安装.md",
     "java/前后端分离开发/1.前后端分离介绍.md",
     "java/前后端分离开发/前后端分离开发.md",
