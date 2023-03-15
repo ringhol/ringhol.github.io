@@ -111,5 +111,5 @@
 		- [gRPC的安装](GO/框架/gRPC/gRPC的安装.md)
 		- [gRPC](GO/框架/gRPC/gRPC.md)
 - 数据结构与算法
-	- [1.排序算法](数据结构与算法/1.排序算法/1.排序算法.md)
+	- [2.排序算法](数据结构与算法/1.排序算法/2.排序算法.md)
 - [设计模式](https://github.com/semtor/designPattern)
