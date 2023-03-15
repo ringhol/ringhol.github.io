@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fb026ea53283da0",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "数据结构与算法/2.排序算法/2.排序算法.md"
               }
             }
           },
@@ -174,9 +175,12 @@
   },
   "active": "1b87605cf7b3fea8",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230315131442.png",
+    "attachments/Pasted image 20230315130932.png",
+    "attachments/Pasted image 20230315130729.png",
+    "_sidebar.md",
     "Nginx/README.md",
     "Nginx/4.nginx配置文件.md",
-    "_sidebar.md",
     "数据结构与算法/2.排序算法/2.排序算法.md",
     "redis/redis.md",
     "MySQL/mysql安装注意.md",
@@ -207,7 +211,6 @@
     "GO/框架/框架.md",
     "GO/语法/2.基本数据类型.md",
     "GO/语法/1.环境配置.md",
-    "GO/语法/3.变量和常量.md",
     "template",
     "docker",
     "GO/云原生",
