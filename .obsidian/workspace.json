@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "Nginx/4.nginx配置文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fb026ea53283da0",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "Nginx/4.nginx配置文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md",
+                "file": "Nginx/4.nginx配置文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/2.排序算法/2.排序算法.md"
+                "file": "Nginx/4.nginx配置文件.md"
               }
             }
           },
@@ -174,6 +175,10 @@
   },
   "active": "b1fe2856bad7a2ef",
   "lastOpenFiles": [
+    "数据结构与算法/2.排序算法/2.排序算法.md",
+    "数据结构与算法/2.排序算法/src/heapSort.go~",
+    "数据结构与算法/2.排序算法/src/4913",
+    "数据结构与算法/2.排序算法/src/heapSort.go",
     "java/java.md",
     "Nginx/2.nginx目录结构.md",
     "Nginx/README.md",
@@ -182,7 +187,6 @@
     "java/前后端分离开发/1.前后端分离介绍.md",
     "java/前后端分离开发/前后端分离开发.md",
     "操作系统/操作系统的概念.md",
-    "数据结构与算法/2.排序算法/2.排序算法.md",
     "Nginx/3.nginx常用命令.md",
     "attachments/Pasted image 20220810125634.png",
     "attachments/Pasted image 20230315131442.png",
@@ -196,7 +200,6 @@
     "Gin/Gin.md",
     "docker/docker.md",
     "数据结构与算法/2.排序算法/src/quickSort.go~",
-    "数据结构与算法/2.排序算法/src/4913",
     "数据结构与算法/2.排序算法/src/quickSort.go",
     "未命名 1.canvas",
     "数据结构与算法/2.排序算法/src/mergeSort.go~",
@@ -211,10 +214,7 @@
     "数据结构与算法/排序算法",
     "redis/1.redis数据类型.md",
     "redis/3.java操作redis.md",
-    "redis/2.redis常用命令.md",
     "template",
-    "docker",
-    "GO/云原生",
-    "gRPC"
+    "docker"
   ]
 }
