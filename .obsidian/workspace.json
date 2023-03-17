@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/语法/4.泛型.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/语法/4.泛型.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/语法/4.泛型.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/语法/4.泛型.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "1a7f01d537e19269",
   "lastOpenFiles": [
-    "GO/语法/3.变量和常量.md",
     "GO/语法/4.泛型.md",
+    "GO/语法/3.变量和常量.md",
     "GO/语法/语法.md",
     "Gin/Gin.md",
     "Gin/返回第三方获取的数据.md",
