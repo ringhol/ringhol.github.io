@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/语法/2.基本数据类型.md",
+                "file": "GO/语法/3.变量和常量.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a7f01d537e19269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GO/语法/4.泛型.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/语法/2.基本数据类型.md",
+                "file": "GO/语法/4.泛型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/语法/2.基本数据类型.md",
+                "file": "GO/语法/4.泛型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/语法/2.基本数据类型.md"
+                "file": "GO/语法/4.泛型.md"
               }
             }
           },
@@ -185,10 +197,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad1c84f092e43998",
+  "active": "1a7f01d537e19269",
   "lastOpenFiles": [
     "GO/语法/3.变量和常量.md",
+    "GO/语法/4.泛型.md",
     "GO/语法/语法.md",
+    "Gin/Gin.md",
+    "Gin/返回第三方获取的数据.md",
+    "Gin/重定向.md",
+    "GO/语法/2.基本数据类型.md",
     "GO/框架/框架.md",
     "_sidebar.md",
     "数据结构与算法/2.链表/2.链表.md",
@@ -215,7 +232,6 @@
     "redis/redis.md",
     "MySQL/mysql安装注意.md",
     "MySQL/读写分离案例.md",
-    "Gin/Gin.md",
     "docker/docker.md",
     "数据结构与算法/2.排序算法/src/quickSort.go~",
     "数据结构与算法/1.排序算法/src/quickSort.go",
@@ -223,10 +239,6 @@
     "数据结构与算法/2.排序算法/src/mergeSort.go~",
     "信号与系统/1.2常见信号及信号运算.md",
     "信号与系统/1.1信号的描述与分类.md",
-    "数据结构与算法/1.时间复杂度.md",
-    "redis/README.md",
-    "README.md",
-    "数据结构与算法/排序算法/1.排序算法.md",
     "数据结构与算法/排序算法",
     "template"
   ]
