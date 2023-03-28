@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/1.排序算法/1.排序算法.md",
+                "file": "GO/语法/4.defer、recover异常捕获和处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,12 +220,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44504e92c4519301",
+  "active": "2ab71ed2bb38eb54",
   "lastOpenFiles": [
-    "docker/1.docker简介.md",
-    "GO/语法/4.defer、recover异常捕获和处理.md",
-    "数据结构与算法/2.链表/2.链表.md",
+    "src/go/case_panic.go",
+    "src/go",
+    "src",
     "数据结构与算法/1.排序算法/1.排序算法.md",
+    "GO/语法/4.defer、recover异常捕获和处理.md",
+    "docker/1.docker简介.md",
+    "数据结构与算法/2.链表/2.链表.md",
     "操作系统/操作系统的概念.md",
     "_sidebar.md",
     "GO/语法/4.泛型.md",
@@ -258,12 +260,9 @@
     "redis/redis.md",
     "MySQL/mysql安装注意.md",
     "MySQL/读写分离案例.md",
-    "docker/docker.md",
     "数据结构与算法/2.排序算法/src/quickSort.go~",
     "数据结构与算法/1.排序算法/src/quickSort.go",
     "未命名 1.canvas",
-    "数据结构与算法/2.排序算法/src/mergeSort.go~",
-    "数据结构与算法/排序算法",
-    "template"
+    "数据结构与算法/2.排序算法/src/mergeSort.go~"
   ]
 }
