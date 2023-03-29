@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/语法/4.defer、recover异常捕获和处理.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/语法/4.defer、recover异常捕获和处理.md",
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/语法/4.defer、recover异常捕获和处理.md",
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/语法/4.defer、recover异常捕获和处理.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/语法/4.defer、recover异常捕获和处理.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/语法/4.defer、recover异常捕获和处理.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -222,18 +222,18 @@
   },
   "active": "2ab71ed2bb38eb54",
   "lastOpenFiles": [
+    "GO/语法/5.defer、recover异常捕获和处理.md",
+    "GO/语法/语法.md",
+    "GO/语法/3.变量和常量.md",
+    "GO/语法/4.泛型.md",
     "src/go/case_panic.go",
     "src/go",
     "src",
     "数据结构与算法/1.排序算法/1.排序算法.md",
-    "GO/语法/4.defer、recover异常捕获和处理.md",
     "docker/1.docker简介.md",
     "数据结构与算法/2.链表/2.链表.md",
     "操作系统/操作系统的概念.md",
     "_sidebar.md",
-    "GO/语法/4.泛型.md",
-    "GO/语法/3.变量和常量.md",
-    "GO/语法/语法.md",
     "Gin/Gin.md",
     "Gin/返回第三方获取的数据.md",
     "Gin/重定向.md",
@@ -262,7 +262,6 @@
     "MySQL/读写分离案例.md",
     "数据结构与算法/2.排序算法/src/quickSort.go~",
     "数据结构与算法/1.排序算法/src/quickSort.go",
-    "未命名 1.canvas",
-    "数据结构与算法/2.排序算法/src/mergeSort.go~"
+    "未命名 1.canvas"
   ]
 }
