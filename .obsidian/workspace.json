@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/语法/5.defer、recover异常捕获和处理.md"
+                "file": "README.md"
               }
             }
           },
@@ -222,8 +222,8 @@
   },
   "active": "2ab71ed2bb38eb54",
   "lastOpenFiles": [
-    "GO/语法/语法.md",
     "GO/语法/5.defer、recover异常捕获和处理.md",
+    "GO/语法/语法.md",
     "_sidebar.md",
     "数据结构与算法/2.链表/2.链表.md",
     "GO/语法/3.变量和常量.md",
