@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md"
               }
             }
           },
@@ -222,9 +222,11 @@
   },
   "active": "2ab71ed2bb38eb54",
   "lastOpenFiles": [
+    "Home.md",
+    "_sidebar.md",
+    "README.md",
     "GO/语法/5.defer、recover异常捕获和处理.md",
     "GO/语法/语法.md",
-    "_sidebar.md",
     "数据结构与算法/2.链表/2.链表.md",
     "GO/语法/3.变量和常量.md",
     "GO/语法/4.泛型.md",
@@ -259,7 +261,6 @@
     "attachments/Pasted image 20230315130729.png",
     "redis/redis.md",
     "MySQL/mysql安装注意.md",
-    "MySQL/读写分离案例.md",
     "数据结构与算法/2.排序算法/src/quickSort.go~",
     "数据结构与算法/1.排序算法/src/quickSort.go",
     "未命名 1.canvas"
