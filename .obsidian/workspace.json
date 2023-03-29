@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "GO/语法/5.defer、recover异常捕获和处理.md"
               }
             }
           },
@@ -222,6 +222,8 @@
   },
   "active": "2ab71ed2bb38eb54",
   "lastOpenFiles": [
+    "数据结构与算法/2.链表/2.链表.md",
+    "_sidebar.md",
     "GO/语法/5.defer、recover异常捕获和处理.md",
     "GO/语法/语法.md",
     "GO/语法/3.变量和常量.md",
@@ -231,9 +233,7 @@
     "src",
     "数据结构与算法/1.排序算法/1.排序算法.md",
     "docker/1.docker简介.md",
-    "数据结构与算法/2.链表/2.链表.md",
     "操作系统/操作系统的概念.md",
-    "_sidebar.md",
     "Gin/Gin.md",
     "Gin/返回第三方获取的数据.md",
     "Gin/重定向.md",
