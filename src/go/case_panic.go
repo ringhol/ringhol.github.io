@@ -1,5 +1,10 @@
 package main
 
+import (
+	"log"
+	"os"
+)
+
 func f1() {
 	println("in defer function2")
 }
@@ -54,6 +59,15 @@ func exceptionCase(){
   panic("exceptionCase error")
   println("end exceptionCase")
 }
+
+func resorceCloseCase(){
+  file,err := os.Open("READ.md")
+  if err != nil {
+    log.Fatal(err)
+  }
+  defer file.Close()
+}
+
 
 func main() {
 	// deferCase1()
