@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "b1275c80d75d01b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GO/语法/6.通过通信共享内存.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dd8fed7ac3f569a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法/2.链表/2.哈希表、链表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ad1c84f092e43998",
             "type": "leaf",
             "state": {
@@ -222,11 +246,14 @@
   },
   "active": "2ab71ed2bb38eb54",
   "lastOpenFiles": [
-    "数据结构与算法/1.排序算法/1.排序算法.md",
-    "数据结构与算法/2.链表/2.哈希表、链表.md",
     "GO/语法/5.defer、recover异常捕获和处理.md",
-    "Home.md",
+    "数据结构与算法/2.链表/2.哈希表、链表.md",
+    "数据结构与算法/1.排序算法/1.排序算法.md",
+    "GO/语法/7.Mutex,RWMutex,Map与并发安全.md",
+    "GO/语法/7.Context.md",
+    "GO/语法/6.通过通信共享内存.md",
     "_sidebar.md",
+    "Home.md",
     "README.md",
     "GO/语法/语法.md",
     "GO/语法/3.变量和常量.md",
@@ -254,13 +281,10 @@
     "Nginx/1.nginx的安装.md",
     "java/前后端分离开发/1.前后端分离介绍.md",
     "java/前后端分离开发/前后端分离开发.md",
-    "Nginx/3.nginx常用命令.md",
     "attachments/Pasted image 20220810125634.png",
     "attachments/Pasted image 20230315131442.png",
     "attachments/Pasted image 20230315130932.png",
     "attachments/Pasted image 20230315130729.png",
-    "redis/redis.md",
-    "MySQL/mysql安装注意.md",
     "数据结构与算法/2.排序算法/src/quickSort.go~",
     "数据结构与算法/1.排序算法/src/quickSort.go",
     "未命名 1.canvas"
