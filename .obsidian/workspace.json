@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "99ac18238c87cb47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法/2.链表/2.哈希表、链表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "004ed02cd3c438e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/1.📙linux三剑客grep、sed、awk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1275c80d75d01b8",
             "type": "leaf",
             "state": {
@@ -91,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/2.链表/2.哈希表、链表.md",
+                "file": "linux/1.📙linux三剑客grep、sed、awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/2.链表/2.哈希表、链表.md",
+                "file": "linux/1.📙linux三剑客grep、sed、awk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/2.链表/2.哈希表、链表.md"
+                "file": "linux/1.📙linux三剑客grep、sed、awk.md"
               }
             }
           },
@@ -244,10 +269,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ab71ed2bb38eb54",
+  "active": "004ed02cd3c438e1",
   "lastOpenFiles": [
-    "GO/语法/5.defer、recover异常捕获和处理.md",
     "数据结构与算法/2.链表/2.哈希表、链表.md",
+    "linux/1.📙linux三剑客grep、sed、awk.md",
+    "数据结构与算法/2.链表/未命名.md",
+    "linux",
+    "数据结构与算法/3.二叉树/3.二叉树.md",
+    "数据结构与算法/3.二叉树",
+    "GO/语法/5.defer、recover异常捕获和处理.md",
     "数据结构与算法/1.排序算法/1.排序算法.md",
     "GO/语法/7.Mutex,RWMutex,Map与并发安全.md",
     "GO/语法/7.Context.md",
@@ -278,15 +308,10 @@
     "java/java.md",
     "Nginx/2.nginx目录结构.md",
     "Nginx/README.md",
-    "Nginx/1.nginx的安装.md",
-    "java/前后端分离开发/1.前后端分离介绍.md",
-    "java/前后端分离开发/前后端分离开发.md",
     "attachments/Pasted image 20220810125634.png",
     "attachments/Pasted image 20230315131442.png",
     "attachments/Pasted image 20230315130932.png",
     "attachments/Pasted image 20230315130729.png",
-    "数据结构与算法/2.排序算法/src/quickSort.go~",
-    "数据结构与算法/1.排序算法/src/quickSort.go",
     "未命名 1.canvas"
   ]
 }
